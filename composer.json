@@ -1,0 +1,14 @@
+{
+    "name": "rockett/pw-module-helpers",
+    "description": "A simple set of helpers for ProcessWire modules.",
+    "type": "library",
+    "license": "ISC",
+    "authors": [{
+        "name": "Mike Rockett",
+        "email": "github@rockett.pw"
+    }],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "require": {
+        "php": ">=5.6.0"
+    }}
